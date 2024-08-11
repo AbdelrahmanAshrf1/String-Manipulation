@@ -1,0 +1,8 @@
+﻿  Solution.cpp
+D:\Programming\3)_Projects\11)_String_Manipulation\Solution\Solution.cpp(260,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Programming\3)_Projects\11)_String_Manipulation\Solution\Solution.cpp(336,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Programming\3)_Projects\11)_String_Manipulation\Solution\Solution.cpp(384,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Programming\3)_Projects\11)_String_Manipulation\Solution\Solution.cpp(398,15): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\Programming\3)_Projects\11)_String_Manipulation\Solution\Solution.cpp(407,12): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\Programming\3)_Projects\11)_String_Manipulation\Solution\Solution.cpp(411,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Solution.vcxproj -> D:\Programming\3)_Projects\11)_String_Manipulation\Solution\x64\Debug\Solution.exe
